@@ -1,0 +1,23 @@
+{
+  "name": "node-execa-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/you21979-learning/node-execa-sample.git"
+  },
+  "dependencies":{
+    "@you21979/promise-sleep" : "",
+    "execa" : ""
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/you21979-learning/node-execa-sample/issues"
+  },
+  "homepage": "https://github.com/you21979-learning/node-execa-sample#readme"
+}
